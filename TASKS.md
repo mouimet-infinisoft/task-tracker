@@ -17,6 +17,7 @@ T7 - [ ] Plan with Melissa when she can come with her truck to pick up the stuff
 
 ## Done
 T8 - [x] Call the Terrebonne écocentre to confirm drop-off details  
+T9 - [ ] Return Laurie's book to the library on September 8  
 
 ## Notes
 - Écocentre: 3779, chemin des Quarante-Arpents, Terrebonne (Québec) J6V 9T6  
