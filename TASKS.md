@@ -3,8 +3,13 @@
 ## Todo
 - [ ] Find a photo for a canvas for my dad
 - [ ] Create a marketplace ad for my aunt
-- [ ] Call the Terrebonne écocentre to ask if I can drop off my items / get phone number
+- [ ] Call the Terrebonne écocentre to confirm drop-off details
 - [ ] Wait for callback from social worker about project collaboration
 - [ ] Call to get a case file archive for a project
 - [ ] Complete stuff on the house
 - [ ] Go rent a tool
+
+## Notes
+- Écocentre: 3779, chemin des Quarante-Arpents, Terrebonne (Québec) J6V 9T6
+- Phone: 450 474-2423
+- Site: complexenviroconnexions.com
