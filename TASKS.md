@@ -7,7 +7,7 @@ T2 - [ ] Create a marketplace ad for my aunt
 
 T3 - [ ] Wait for callback from social worker about project collaboration  
 
-T4 - [ ] Call to get a case file archive for a project — 450-436-7607  
+T4 - [ ] Get case file archive: left voicemail, waiting for form by email — 450-436-7607  
 
 T5 - [ ] Complete stuff on the house  
 
@@ -15,9 +15,10 @@ T6 - [ ] Go rent a tool
 
 T7 - [ ] Plan with Melissa when she can come with her truck to pick up the stuff  
 
+T9 - [ ] Return Laurie's book to the library on September 8  
+
 ## Done
 T8 - [x] Call the Terrebonne écocentre to confirm drop-off details  
-T9 - [ ] Return Laurie's book to the library on September 8  
 
 ## Notes
 - Écocentre: 3779, chemin des Quarante-Arpents, Terrebonne (Québec) J6V 9T6  
