@@ -13,7 +13,7 @@ T5 - [ ] Complete stuff on the house
 
 T6 - [ ] Go rent a tool  
 
-T7 - [ ] Wait for Lisa to confirm when she can come pick up the stuff  
+T7 - [ ] Wait for Melissa to confirm when she can come pick up the stuff  
 
 T9 - [ ] Return Laurie's book to the library on September 8  
 
