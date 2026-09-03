@@ -16,7 +16,7 @@ T6 - [ ] Go rent a tool
 T7 - [ ] Wait for Melissa to confirm when she can come pick up the stuff  
 
 T9 - [ ] Return Laurie's book to the library on September 8  
-T10 - [ ] Sept 8, 11h40: go to Clinique Vivo Santé de Terrebonne with Martin; bring medication bag to discuss noncompliance with doctor  
+T10 - [ ] Sept 8, 11h40: accompany aunt to Clinique Vivo Santé de Terrebonne with Martin; bring medication bag to discuss noncompliance with doctor  
 
 ## Done
 T8 - [x] Call the Terrebonne écocentre to confirm drop-off details  
