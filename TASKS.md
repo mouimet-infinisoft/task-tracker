@@ -7,8 +7,6 @@ T2 - [ ] Create a marketplace ad for my aunt
 
 T3 - [ ] Wait for callback from social worker about project collaboration  
 
-T4 - [ ] Get case file archive: left voicemail, waiting for form by email — 450-436-7607  
-
 T5 - [ ] Complete stuff on the house  
 
 T6 - [ ] Go rent a tool  
@@ -16,9 +14,12 @@ T6 - [ ] Go rent a tool
 T7 - [ ] Wait for Melissa to confirm when she can come pick up the stuff  
 
 T9 - [ ] Return library books by Sept 10, 2026 — Biblio Île-des-Moulins: 855 Île-des-Moulins, Terrebonne J6W 4N7, (450) 471-8265  
+
 T10 - [ ] Sept 8, 11h40: accompany aunt to Clinique Vivo Santé de Terrebonne with Martin; bring medication bag to discuss noncompliance with doctor  
 
 ## Done
+T4 - [x] Get case file archive: received forms by email — 450-436-7607  
+
 T8 - [x] Call the Terrebonne écocentre to confirm drop-off details  
 
 ## Notes
