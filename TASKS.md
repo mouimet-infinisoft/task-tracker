@@ -16,7 +16,7 @@ T7 - [ ] Wait for Melissa to confirm when she can come pick up the stuff
 T9 - [ ] Return library books by Sept 10, 2026 — Biblio Île-des-Moulins: 855 Île-des-Moulins, Terrebonne J6W 4N7, (450) 471-8265  
 
 T10 - [ ] Sept 8, 11h40: accompany aunt to Clinique Vivo Santé de Terrebonne with Martin; bring medication bag to discuss noncompliance with doctor  
-T12 - [ ] Sept 10: go to court with mother — own case/fault  
+T12 - [ ] Sept 10: birthday dinner with mother at restaurant  
 T11 - [ ] Sept 11: check Garmin account rouimet607@gmail.com suppression warning — log in to keep account/data  
 
 ## Done
