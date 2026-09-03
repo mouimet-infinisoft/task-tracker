@@ -15,8 +15,7 @@ T6 - [ ] Go rent a tool
 
 T7 - [ ] Wait for Melissa to confirm when she can come pick up the stuff  
 
-T9 - [ ] Return Laurie's book to the library on September 8  
-T10 - [ ] Sept 8, 11h40: accompany aunt to Clinique Vivo Santé de Terrebonne with Martin; bring medication bag to discuss noncompliance with doctor  
+T9 - [ ] Return library books by Sept 10, 2026 — Biblio Île-des-Moulins: 855 Île-des-Moulins, Terrebonne J6W 4N7, (450) 471-8265  
 
 ## Done
 T8 - [x] Call the Terrebonne écocentre to confirm drop-off details  
@@ -25,3 +24,4 @@ T8 - [x] Call the Terrebonne écocentre to confirm drop-off details
 - Écocentre: 3779, chemin des Quarante-Arpents, Terrebonne (Québec) J6V 9T6  
 - Phone: 450 474-2423  
 - Site: complexenviroconnexions.com
+- Biblio Île-des-Moulins: 855 Île-des-Moulins, Terrebonne J6W 4N7, (450) 471-8265, biblio.ville.terrebonne.qc.ca
